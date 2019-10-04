@@ -1,5 +1,4 @@
-#Azure Custom Policies
-This is GitHub Repo is to help build and prototype JSON Configurations for Azure Policies. JSON policies in Azure should implemented to help uniformly add governance and controls over Azure Resource Groups, Subscriptions, and even across Tenants (via Management Groups). See Microsoft's Cloud Adoption Framework for more details - https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/index
+This GitHub Repo is to help build and prototype JSON Configurations for Azure Policies. JSON policies in Azure should implemented to help uniformly add governance and controls over Azure Resource Groups, Subscriptions, and even across Tenants (via Management Groups). See Microsoft's Cloud Adoption Framework for more details - https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/index
 
 Helpful Links for developing Azure Custom Policies:
 
