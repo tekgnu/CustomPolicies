@@ -2,12 +2,12 @@ This GitHub Repo is to help build and prototype JSON Configurations for Azure Po
 
 Helpful Links for developing Azure Custom Policies:
 
-	Core Governance and Policy documentation: https://docs.microsoft.com/en-us/azure/governance/policy/ 
-	Link to Microsoft Azure sample Policies: https://docs.microsoft.com/en-us/azure/governance/policy/samples/  
-	Azure Policy Definition: https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure  
-	For more information on Azure Policy Effects: https://docs.microsoft.com/en-us/azure/governance/policy/concepts/effects 
+Core Governance and Policy documentation: https://docs.microsoft.com/en-us/azure/governance/policy/ 
+Link to Microsoft Azure sample Policies: https://docs.microsoft.com/en-us/azure/governance/policy/samples/  
+Azure Policy Definition: https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure  
+For more information on Azure Policy Effects: https://docs.microsoft.com/en-us/azure/governance/policy/concepts/effects 
 
-	GitHub repository for Azure Policy samples to build from : https://github.com/Azure/azure-policy
+GitHub repository for Azure Policy samples to build from : https://github.com/Azure/azure-policy
 
 Lastly just a quick note on implementing the Policy definitions in Powershell see - https://docs.microsoft.com/en-us/azure/governance/policy/samples/enforce-tag-value#deploy-with-powershell or cli - https://docs.microsoft.com/en-us/azure/governance/policy/samples/enforce-tag-value#deploy-with-powershell
 
