@@ -24,6 +24,8 @@
                 "permissions": [
                     {
                         "Actions": [
+                            "Microsoft.Compute/virtualMachines/write",
+                            "Microsoft.Security/locations/jitNetworkAccessPolicies/write",
                             "Microsoft.Compute/virtualMachines/read",
                             "Microsoft.Network/networkInterfaces/*/read",
                             "Microsoft.Security/locations/jitNetworkAccessPolicies/initiate/action",
