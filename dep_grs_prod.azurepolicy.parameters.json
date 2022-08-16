@@ -1,0 +1,17 @@
+{
+    "tagName": {
+        "type": "String",
+        "metadata": {
+            "displayName": "Tag Name",
+            "description": "Tag used to identify environment"
+        }
+    },
+    "tagValue": {
+        "type": "String",
+        "metadata": {
+            "displayName": "Tag value",
+            "description": "Which environment should this be deployed on"
+        }
+    }
+}
+
