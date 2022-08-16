@@ -1,5 +1,7 @@
 This GitHub Repo is to help build and prototype JSON Configurations for Azure Policies. JSON policies in Azure should implemented to help uniformly add governance and controls over Azure Resource Groups, Subscriptions, and even across Tenants (via Management Groups). See Microsoft's Cloud Adoption Framework for more details - https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/index
 
+* Newly added the Deploy GRS on Production (or the dep rules and parameter) custom policy.  This allows you to deploy with a remediation task GRS on any storage account with the defined tags (in my case I used environment: production).
+
 Helpful Links for developing Azure Custom Policies:
 
 Core Governance and Policy documentation: https://docs.microsoft.com/en-us/azure/governance/policy/ 
